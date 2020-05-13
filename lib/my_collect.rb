@@ -1,5 +1,5 @@
 def my_collect(array)
-  array.select{|caps| caps.upcase}
+  array.map {|caps| caps.upcase}
 end
 
 
