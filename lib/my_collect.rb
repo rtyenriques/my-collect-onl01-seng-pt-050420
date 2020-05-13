@@ -4,4 +4,3 @@ end
 
 
 my_collect(collection)
-
